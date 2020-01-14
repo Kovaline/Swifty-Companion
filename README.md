@@ -18,4 +18,7 @@ Run the app
 ```
 open Swifty-Companion.xcworkspace
 ```
+## Demo
+
 ![search](https://media.giphy.com/media/XgAKTf9aW603KCOt96/giphy.gif)
+![search](https://media.giphy.com/media/Ss6um5JuImWqf5yLLF/giphy.gif)
