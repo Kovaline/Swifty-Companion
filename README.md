@@ -6,7 +6,7 @@ The aim of the projet is to build an application that will retrieve the informat
 
 Go into the repositor
 ```
-cd Swifty-Companion
+cd Swifty-Companions
 ```
 
 Install dependencies
@@ -16,7 +16,7 @@ pod install
 
 Run the app
 ```
-open Swifty-Companion.xcworkspace
+open Swifty-Companions.xcworkspace
 ```
 ## Demo
 
